@@ -1,5 +1,5 @@
 require('apostrophe')({
-  shortName: 'a3-boilerplate',
+  shortName: 'simposium-starter-kit',
   modules: {
     // Apostrophe module configuration
     // *******************************
